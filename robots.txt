@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ih2o08.kujang138bos.online/sitemap.xml
